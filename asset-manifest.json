@@ -1,24 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.25f025eb.css",
-    "main.js": "/static/js/main.59c49512.js",
-    "static/media/mainBanner01.png": "/static/media/mainBanner01.5f554d857ed8d5b2ccbe.png",
-    "static/media/mainBanner02.png": "/static/media/mainBanner02.cbe4e32ae21eb7997b27.png",
+    "main.css": "/static/css/main.03b13c80.css",
+    "main.js": "/static/js/main.36bfdf3c.js",
     "static/media/ChangePWIllust.png": "/static/media/ChangePWIllust.c5bc921e4e4365358e6d.png",
     "static/media/FindPWIllust.png": "/static/media/FindPWIllust.f13fd8d2f0f0c07fe442.png",
-    "static/media/mainBanner03.png": "/static/media/mainBanner03.cad0d2ba628372157e70.png",
     "static/media/LoginIllust.png": "/static/media/LoginIllust.7345252fb53765d4e402.png",
     "static/media/FindIDIllust.png": "/static/media/FindIDIllust.5b594830d72ac9e9e755.png",
     "static/media/JoinIllust.png": "/static/media/JoinIllust.1a1a5089a255d80818fd.png",
-    "static/media/comSwiper02.png": "/static/media/comSwiper02.d6a726e20c67b6dc62e4.png",
-    "static/media/comSwiper03.png": "/static/media/comSwiper03.72b1d427b508111681ff.png",
-    "static/media/comSwiper01.png": "/static/media/comSwiper01.673d3b82fab3f691b882.png",
-    "static/media/homeBanner1.png": "/static/media/homeBanner1.2def465ef1e21cfec312.png",
-    "static/media/mascot.png": "/static/media/mascot.c6334008891f47de9d0b.png",
     "static/media/LoadingImg2.svg": "/static/media/LoadingImg2.1e0300c496c8e86f5d95395769a2929e.svg",
-    "static/media/HomeCheck.svg": "/static/media/HomeCheck.a27ee54c565e35bc2a398b13a61471a1.svg",
     "static/media/inputDefaultImg.png": "/static/media/inputDefaultImg.af792aea7e8fe4117373.png",
-    "static/media/homeBanner2.png": "/static/media/homeBanner2.0a2afd4b9a37cce4ef6b.png",
     "static/media/errorCommunity.png": "/static/media/errorCommunity.35d024ea65979f92bbca.png",
     "static/media/footerLogo.png": "/static/media/footerLogo.3e0c456bce7d9c109f94.png",
     "static/media/MainLogo.svg": "/static/media/MainLogo.43384d13ef88b3f87438d3bb95c03c44.svg",
@@ -55,7 +45,7 @@
     "static/media/Circle.svg": "/static/media/Circle.f92ec86c95cbba554f35eca7ed396a66.svg"
   },
   "entrypoints": [
-    "static/css/main.25f025eb.css",
-    "static/js/main.59c49512.js"
+    "static/css/main.03b13c80.css",
+    "static/js/main.36bfdf3c.js"
   ]
 }
